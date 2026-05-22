@@ -60,4 +60,4 @@ python eda_vijay_movies.py
 ## 📷 CONCLUSION
 The project generates graphs and charts for better understanding of movie trends and patterns.
 
-Author Rithiga L | Bca 
+Author Rithiga L | BCA Undergraduate | python Begginner | python enthusiast | Data Science Intern
