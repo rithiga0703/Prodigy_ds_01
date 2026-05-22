@@ -52,7 +52,7 @@ python eda_vijay_movies.py
 * Rating Distribution Histogram
 * Year vs Box Office Scatter Plot
 * Correlation Matrix
-## 📈 INSIGTH:
+## 📈 INSIGht:
 * Recent Vijay movies show higher box office collections.
 * Action movies dominate the dataset.
 * Highly rated movies include *Ghilli* and *Thuppakki*.
