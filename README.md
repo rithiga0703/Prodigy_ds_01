@@ -1,4 +1,4 @@
-EXPLORATORY DATA ANALYSIS)EDA_
+### EXPLORATORY DATA ANALYSIS(EDA)
 
 This project performs Data Cleaning and Exploratory Data Analysis (EDA) on a dataset of movies starring Vijay using Python, Pandas, and Matplotlib.
 
